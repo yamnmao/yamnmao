@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yaming</h1>
 <h3 align="center">A passionate software developer from Vancouver</h3>
 
-- 🔭 I’m currently working on [social-media](https://github.com/yamnmao/social-media)
-
 - 📫 How to reach me **yamnmao@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
